@@ -17,6 +17,6 @@ Since I have learned many machine learning opitimiters on the course , I tend to
 Please view [Adarag](https://www.youtube.com/watch?list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49&t=705&v=yKKNr-QKz2Q&feature=youtu.be) , [RMSprop](https://www.youtube.com/watch?v=5Yt-obwvMHI) , [Adam](https://www.youtube.com/watch?v=JXQT_vxqwIs) , if you want to learn more about the optimizers  
 Please view the [optimizer.py](https://github.com/ITCUI-XJTLU/HongyiLee_MLcourse/blob/master/H1/optimizer.py) , if you want to see the detail of how I program these four optimizers.   
 And the result is :  
-<div align=center><img width="550" height="500" src="https://github.com/ITCUI-XJTLU/HongyiLee_MLcourse/raw/master/Four_Optimizers.png"/></div>  
+<div align=center><img width="550" height="500" src="https://github.com/ITCUI-XJTLU/HongyiLee_MLcourse/raw/master/H1/Four_Optimizers.png"/></div>  
   
 From the graph above , we know that `SDGm` perform the best . And in most of other machine learning models, the Adam is actually the most commen and robust method we use to optimize models .
